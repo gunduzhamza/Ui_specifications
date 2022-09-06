@@ -67,3 +67,5 @@ This section will explain how the user management page can use.
 
 ### 5 - Use case diagram<a name="#5"></a>
 ![pic](./uispecification.png)
+
+##### Hamza GÜNDÜZ
